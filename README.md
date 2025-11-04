@@ -14,6 +14,12 @@
 
 ## 🧠 Project Overview  
 **VTM** is a BEP-20 token on the Binance Smart Chain designed to transform digital value through intelligent utility. The project integrates blockchain and artificial intelligence (AI) to build a smart, adaptive ecosystem where VTM is the core of innovation, automation, and value exchange.
+---
+### 🔒 Minting Policy Update
+For full transparency, you can review the official deactivation notice of the minting functions in our contract:
+
+👉 [Read the Minting Policy Notice](./docs/minting-policy.md)
+---
 
 ---
 
