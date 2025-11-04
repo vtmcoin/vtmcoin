@@ -1,0 +1,31 @@
+## 🧩 Minting Function Deactivation Notice / Aviso de Desactivación de Función de Mint
+
+### 🇬🇧 English Version
+
+As part of the **VTM 2.0 smart contract stabilization**, the `mintAndFreeze()` function — originally designed for vesting and timed releases — will **no longer be used**.
+
+This decision ensures complete alignment with decentralization and transparency principles.
+
+- The main `mint()` function has been **permanently closed** using `finishMinting()`.
+- The `continue_minting` variable remains visible as a legacy flag but **does not grant any minting capability**.
+- No new token issuance will occur.
+- All future supply management will rely exclusively on **burn events** and **liquidity operations**.
+- The upcoming **VTM 2.1** contract will fully remove the deprecated mint-related logic.
+
+> 🧠 *Transparency, Integrity, and Intelligent Utility — VTM Development Team*
+
+---
+
+### 🇪🇸 Versión en Español
+
+Como parte del proceso de **estabilización del contrato inteligente de VTM 2.0**, la función `mintAndFreeze()` — diseñada originalmente para liberaciones programadas y vesting — **ya no será utilizada**.
+
+Esta decisión garantiza una alineación completa con los principios de descentralización y transparencia.
+
+- La función principal `mint()` ha sido **cerrada permanentemente** mediante `finishMinting()`.
+- La variable `continue_minting` permanece visible como una bandera heredada, pero **no otorga ninguna capacidad de acuñación**.
+- No se emitirán nuevos tokens.
+- Toda la gestión del suministro se realizará exclusivamente mediante **eventos de quema (burn)** y **operaciones de liquidez**.
+- En la próxima versión **VTM 2.1**, se eliminará por completo la lógica obsoleta relacionada con la acuñación.
+
+> 🧠 *Transparencia, Integridad y Utilidad Inteligente — Equipo de Desarrollo VTM*
