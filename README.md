@@ -18,7 +18,7 @@
 ### 🔒 Minting Policy Update
 For full transparency, you can review the official deactivation notice of the minting functions in our contract:
 
-👉 [Read the Minting Policy Notice](./docs/minting-policy.md)
+👉 [Read the Minting Policy Notice]([./docs/minting-policy.md](https://github.com/vtmcoin/vtmcoin/blob/main/Minting%20Policy%20Notice)
 ---
 
 ---
